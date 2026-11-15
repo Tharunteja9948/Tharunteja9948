@@ -18,10 +18,9 @@
 - Django
 
 ## Projects
-- AI Interview Simulator
-- AI Calls Dashboard
-- AI Chatbot
-- Leftover Food Recipe Generator
+- AI Interview Platform
+-  Call Analysis
+- AI CHEF
 
 ## Connect With Me
 - GitHub: https://github.com/Tharunteja9948
